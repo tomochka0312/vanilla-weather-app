@@ -1,10 +1,12 @@
 
 h1{
-    color:blue;
-    fomt-size: 24px;
-    font-weight: 100px;
-    line-height: 28px;
-    margin-bottom: 0;
+color:black;
+    font-size: 22px;
+    line-height: 26px;
+    font-family: Google Sans,arial,sans-serif;
+    font-weight: 400;
+    display: block;
+
 }
 ul{
     margin:0;
@@ -14,7 +16,7 @@ li{
    list-style: none;
    margin: 0;
    padding: 0;
-    color:rgb(0, 255, 46);
+    color:rgb(40, 47, 41);
     font-size: 16px;
     font-weight: 100;
     line-height: 19px;
@@ -25,7 +27,7 @@ margin:30px auto;
 }
 .weather-app{
     padding: 20px;
-    border: 1px solid 0026ff;
+    border: 1px solid blue;
     border-radius: 10px;
 }
 .overview{
@@ -45,6 +47,6 @@ margin:30px auto;
 .weather-temperature .units{
     position: relative;
     font-size: 16px;
-    top=-32px;
+    top =-32px;
 
 }
